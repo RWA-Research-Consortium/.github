@@ -10,4 +10,8 @@ We are a group of blockhain and open source enthusiasts who work together to def
 
 [Cougar DAO](https://twitter.com/CougarDao)
 
+[Cooperativ](https://cooperativ.io/)
+
 [REI DAO](https://reidao.community/)
+
+[CityDAO](https://www.citydao.io/)
