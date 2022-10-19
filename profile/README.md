@@ -17,3 +17,5 @@ We are a group of blockchain and open source practitioners and enthusiasts who w
 [CityDAO](https://www.citydao.io/)
 
 [721 Labs](https://721.dev)
+
+[basinDAO](https://basin.global)
