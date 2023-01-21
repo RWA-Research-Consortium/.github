@@ -10,6 +10,8 @@ We are a group of blockchain and open source practitioners and enthusiasts who w
 
 [Cougar DAO](https://twitter.com/CougarDao)
 
+[build_cities](https://www.buildcities.network/)
+
 [Cooperativ](https://cooperativ.io/)
 
 [REI DAO](https://reidao.community/)
